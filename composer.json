@@ -1,7 +1,6 @@
 {
     "name": "php-concept/extension-json",
     "description": "Concept JSON extension — parse JSON body and force JSON responses",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
